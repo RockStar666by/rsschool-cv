@@ -33,6 +33,7 @@ let decodeMorse = function(morseCode){
 ## Experience
 ***
 I studied Pascal ABC at school and at the first year of university. At the end of the first year I made a course work in computer science using Pascal.
+Was the student of RSSchool courses RS 2020 Q1. Completed an interview to the Stage 2.
 
 
 ## Education
