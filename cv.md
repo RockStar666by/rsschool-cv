@@ -41,4 +41,4 @@ I studied Pascal ABC at school and at the first year of university. At the end o
 
 ## English
 ***
-Intermediate (B1)
+Intermediate (B1) - According to EPAM Training Center Test
