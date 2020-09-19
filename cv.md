@@ -41,4 +41,4 @@ I studied Pascal ABC at school and at the first year of university. At the end o
 
 ## English
 ***
-Pre-Intermediate (A2)
+Intermediate (B1)
