@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(161, 161, 161, 0.199);
+}
+
+h1 {
+    font-family: 'Noto Sans SC', 'Arial', sans-serif;
+    text-align: right;
+}
+
+h1 span {
+    text-transform: uppercase;
+}
+
+.image {
+    margin-left: auto;
+    max-width: 150px;
+    max-height: 150px;
+    border: 10px solid gray;
+}
+
+.title {
+    font-family: 'Noto Sans SC', 'Arial', sans-serif;
+    text-align: left;
+    border-bottom: 4px solid rgb(0, 0, 0);
+}
+
+.text {
+    margin: auto;
+    padding-left: 200px;
+    font-size: 18px;
+    font-family: 'Roboto Condensed', 'Arial', sans-serif;
+    text-align: left;
+    text-indent: 20px;
+}
+
+.main {
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+    padding: 50px;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.code {
+    padding-left: 10px;
+    border-left: 2px solid #000000;
+    text-indent: 0px;
+    background-color: rgb(202, 202, 202);
+}
